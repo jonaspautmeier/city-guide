@@ -1,0 +1,31 @@
+---
+title: "City-guide"
+author: "Jonas Pautmeier"
+format: html
+editor: visual
+date: today
+---
+
+Welcome to my city-guide folder!
+
+Here are some recommendations for **Hamburg**: 
+
+- Elbphilharmonie, a new opera house 
+- Außenalster is a big lake in the city popular for sailing, rowing or other water sports 
+- Cafe "Mit freundlichen Grüßen" in the city center 
+- Cafe "La maison" im Karolinenviertel
+- Cafe "Bean there" in Winterhude  
+- Comedy Theater "Winterhuder Fährspielhaus"
+
+and for **Rotterdam**: 
+
+- lively center 
+- KINO Rotterdam (movie theatre) 
+- De Doelen nice cultural center with music, art exposition & movies
+- Artificial surfing 
+
+```{r}
+
+```
+
+
