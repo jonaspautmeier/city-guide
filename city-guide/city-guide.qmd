@@ -10,7 +10,7 @@ Welcome to my city-guide folder!
 
 **Hamburg**
 
-Here are some recommendations: 
+Here are some recommendations:
 
 -   Elbphilharmonie, a new opera house
 -   Außenalster is a big lake in the city popular for sailing, rowing or other water sports
@@ -20,17 +20,14 @@ Here are some recommendations:
 -   Comedy Theater "Winterhuder Fährspielhaus"
 
 but make sure to avoid: 
--   Area around the central train station (Hauptbahnhof)
+
+- Area around the central train station (Hauptbahnhof)
 
 **Rotterdam**
 
-Here are some recommendations: 
+Here are some recommendations:
 
 -   lively center
 -   KINO Rotterdam (movie theatre)
 -   De Doelen nice cultural center with music, art exposition & movies
 -   Artificial surfing
-
-```{r}
-
-```
